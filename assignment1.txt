@@ -1,0 +1,95 @@
+
+Enter number of elements to store in the array(in ascending order):5
+
+Enter 5 elements:4 6 9 15 20
+
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:1
+
+Enter the element to be searched using iterative linear search:6
+
+ Element found at position 2
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:1
+
+Enter the element to be searched using iterative linear search:10
+
+ Element not found in the array
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:2
+
+Enter the element to be searched using recursive linear search:9
+
+Element found at position 3
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:2
+
+Enter the element to be searched using recursive linear search:11
+
+Element not found in the array
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:3
+
+Enter the element to be searched using iterative binary search:15
+
+Element found at position 4
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:3
+
+Enter the element to be searched using iterative binary search:25
+
+Element not found in the array
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:4
+
+Enter the element to be searched using recursive binary search:20
+
+Element found at position 5
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:4
+
+Enter the element to be searched using recursive binary search:56
+
+Element not found in the array
+1.Iterative Linear Search
+2.Recursive Linear Search
+3.Iterative Binary Search
+4.Recursive Binary Search
+5.Exit
+Enter your choice:5
+
+--------------------------------
+Process exited after 105.3 seconds with return value 0
+Press any key to continue . . .
